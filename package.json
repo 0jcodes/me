@@ -1,8 +1,13 @@
 {
   "name": "my-portfolio",
+<<<<<<< HEAD
   "version": "1.0.0",
   "description": "portfolio",
   "main": "index.js",
+=======
+  "version": "0.1.0",
+  "private": true,
+>>>>>>> df2aa7933d23606e34d3ae332cc272e45e417514
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.12.0",
@@ -12,8 +17,15 @@
   },
   "devDependencies": {},
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-scripts start"
+=======
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+>>>>>>> df2aa7933d23606e34d3ae332cc272e45e417514
   },
   "repository": {
     "type": "git",
